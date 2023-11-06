@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8815063487869217963
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4795424870098241608, guid: cabebe0dfc0f8174f927615cc7c23436, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 7a511b9c6df33aa4c956197dc2553fd0, type: 3}
+    - target: {fileID: 4795424870098241610, guid: cabebe0dfc0f8174f927615cc7c23436, type: 3}
+      propertyPath: m_Size.x
+      value: 4.789965
+      objectReference: {fileID: 0}
+    - target: {fileID: 4795424870098241610, guid: cabebe0dfc0f8174f927615cc7c23436, type: 3}
+      propertyPath: m_Size.y
+      value: 8.790058
+      objectReference: {fileID: 0}
+    - target: {fileID: 4795424870098241610, guid: cabebe0dfc0f8174f927615cc7c23436, type: 3}
+      propertyPath: m_Offset.x
+      value: -0.35939336
+      objectReference: {fileID: 0}
+    - target: {fileID: 4795424870098241610, guid: cabebe0dfc0f8174f927615cc7c23436, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.051250458
+      objectReference: {fileID: 0}
+    - target: {fileID: 4795424870098241610, guid: cabebe0dfc0f8174f927615cc7c23436, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 6.78
+      objectReference: {fileID: 0}
+    - target: {fileID: 4795424870098241610, guid: cabebe0dfc0f8174f927615cc7c23436, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 10.23
+      objectReference: {fileID: 0}
+    - target: {fileID: 4795424870098241611, guid: cabebe0dfc0f8174f927615cc7c23436, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4795424870098241611, guid: cabebe0dfc0f8174f927615cc7c23436, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.16487388
+      objectReference: {fileID: 0}
+    - target: {fileID: 4795424870098241611, guid: cabebe0dfc0f8174f927615cc7c23436, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.1051071
+      objectReference: {fileID: 0}
+    - target: {fileID: 4795424870098241611, guid: cabebe0dfc0f8174f927615cc7c23436, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.16487388
+      objectReference: {fileID: 0}
+    - target: {fileID: 4795424870098241611, guid: cabebe0dfc0f8174f927615cc7c23436, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4795424870098241611, guid: cabebe0dfc0f8174f927615cc7c23436, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4795424870098241611, guid: cabebe0dfc0f8174f927615cc7c23436, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4795424870098241611, guid: cabebe0dfc0f8174f927615cc7c23436, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4795424870098241611, guid: cabebe0dfc0f8174f927615cc7c23436, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4795424870098241611, guid: cabebe0dfc0f8174f927615cc7c23436, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4795424870098241611, guid: cabebe0dfc0f8174f927615cc7c23436, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4795424870098241611, guid: cabebe0dfc0f8174f927615cc7c23436, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4795424870098241611, guid: cabebe0dfc0f8174f927615cc7c23436, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4795424870098241611, guid: cabebe0dfc0f8174f927615cc7c23436, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4795424870098241614, guid: cabebe0dfc0f8174f927615cc7c23436, type: 3}
+      propertyPath: m_Name
+      value: BalaEnemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 4795424870098241614, guid: cabebe0dfc0f8174f927615cc7c23436, type: 3}
+      propertyPath: m_TagString
+      value: BalaEnemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 4795424870098241621, guid: cabebe0dfc0f8174f927615cc7c23436, type: 3}
+      propertyPath: esSnipper
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cabebe0dfc0f8174f927615cc7c23436, type: 3}
